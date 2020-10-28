@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MVVM</string>
+
+    <!-- activity_login.xml -->
+    <string name="login_page_title">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Log in</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="dont_have_acc_text">Don\'t have account?</string>
+    <string name="sign_up">Sign up here</string>
+
+    <!-- activity_signup.xml -->
+    <string name="signup_page_title">Sign up</string>
+    <string name="username_hint">Username</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="sign_up_button_text">Sign up</string>
+    <string name="already_have_acc_text">Already have an account?</string>
+    <string name="log_in_here_text">Log in here</string>
+</resources>
